@@ -449,6 +449,17 @@ footer > .container {
         padding: 10px;
 
     }
+
+    .produtos h3,
+    .promocao h3 {
+        margin-left: 0;
+    }
+
+    .promocao button {
+        width: 140px;
+        padding: 6px;
+        margin-right: 3px;
+    }
     
     .clear {
         clear: both;
